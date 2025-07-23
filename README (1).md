@@ -46,5 +46,5 @@ Actual   : [17310.75, 32755.17, 16699.82, 42676.46, ...]
 
 ## 👩‍🔬 Author
 **Shreya Gupta**  
-Pre-final year B.Tech Biomedical Engineering  
+Final year B.Tech Biomedical Engineering  
 Focused on ML in Healthcare and Regulatory Compliance
